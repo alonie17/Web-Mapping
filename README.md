@@ -1,7 +1,9 @@
 # Web-Mapping
 Web Mapping Lab
 Map 1 : sftp://postmap@qilin.geog.uw.edu:6022/home/postmap/tiles/458-alonie-first-map%20(1).mbtiles
+
 Map 2 : sftp://postmap@qilin.geog.uw.edu:6022/home/postmap/tiles/458-alonie-second-seattlecrime.mbtiles
+
 Map 3:  sftp://postmap@qilin.geog.uw.edu:6022/home/postmap/tiles/458-alonie-third-seattlecrime.mbtiles
 
 For Map 2 I decided to work with some Seattle crime data. It was challenging at first for me to locate the data at first
